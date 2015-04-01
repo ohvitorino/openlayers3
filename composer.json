@@ -1,0 +1,32 @@
+{
+	"name": "ohvitorino/openlayers3",
+	"description": "Openlayers 3 - A high-performance, feature-packed library for all your mapping needs",
+	"type": "component",
+	"homepage": "http://openlayers.org",
+	"license": "Copyright 2005-2015 OpenLayers Contributors",
+	"support": {
+		"issues": "https://github.com/openlayers/ol3/issues",
+		"forum": "https://groups.google.com/forum/#!forum/ol3-dev",
+		"wiki": "http://openlayers.org/en/v3.4.0/doc/",
+		"source": "https://github.com/openlayers/ol3",
+		"api": "http://openlayers.org/en/v3.4.0/apidoc/"
+	},
+	"authors": [
+		{
+			"name": "Bruno Vitorino",
+			"email": "bruno.vitorino@gmail.com"
+		}
+	],
+	"extra": {
+		"component": {
+			"scripts": [
+				"ol.js"
+			],
+			"files": [
+				"ol-debug.js",
+				"ol-deps.js",
+				"ol.css"
+			]
+		}
+	}
+}
