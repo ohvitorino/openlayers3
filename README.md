@@ -19,7 +19,7 @@ option. The ```component-dir``` option specifies the place to install
 OpenLayers3 for example in Symfony under web/assets.
 
 To use this you'll need to add the following to your root composer.json:
-```
+```json
 {
     "require": {
             "robloach/component-installer": "*"
