@@ -7,9 +7,9 @@
 	"support": {
 		"issues": "https://github.com/openlayers/ol3/issues",
 		"forum": "https://groups.google.com/forum/#!forum/ol3-dev",
-		"wiki": "http://openlayers.org/en/v3.7.0/doc/",
+		"wiki": "http://openlayers.org/en/v3.8.1/doc/",
 		"source": "https://github.com/openlayers/ol3",
-		"api": "http://openlayers.org/en/v3.7.0/apidoc/"
+		"api": "http://openlayers.org/en/v3.8.1/apidoc/"
 	},
 	"authors": [
 		{
