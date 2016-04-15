@@ -3,13 +3,13 @@
 	"description": "Openlayers 3 - A high-performance, feature-packed library for all your mapping needs",
 	"type": "component",
 	"homepage": "http://openlayers.org",
-	"license": "Copyright 2005-2015 OpenLayers Contributors",
+	"license": "Copyright 2005-2016 OpenLayers Contributors",
 	"support": {
 		"issues": "https://github.com/openlayers/ol3/issues",
 		"forum": "https://groups.google.com/forum/#!forum/ol3-dev",
-		"wiki": "http://openlayers.org/en/v3.13.1/doc/",
+		"wiki": "http://openlayers.org/en/v3.15.1/doc/",
 		"source": "https://github.com/openlayers/ol3",
-		"api": "http://openlayers.org/en/v3.13.1/apidoc/"
+		"api": "http://openlayers.org/en/v3.15.1/apidoc/"
 	},
 	"authors": [
 		{
